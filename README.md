@@ -7,7 +7,7 @@ TODO for Geth
   * Update to build on latest LTS Ubuntu
   * Add persistent storage to cut down sync time
 
-Reference repo for Mist: https://github.com/blakeberg/geth-node
+Reference repo for Mist: https://github.com/MarcoSpoerl/ethereum-mist-docker
 
 TODO for Mist
   * Update to LTS when 18.04 LTS drops
